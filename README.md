@@ -4,4 +4,4 @@
 * 2022-02-06 : https://leetcode.com/problems/merge-two-sorted-lists, https://leetcode.com/problems/length-of-last-word, https://www.youtube.com/watch?v=cODCpXtPHbQ&list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3&index=2, EPI in Java 4.0~5.11, https://leetcode.com/problems/climbing-stairs, https://leetcode.com/problems/remove-duplicates-from-sorted-list, https://leetcode.com/problems/merge-sorted-array/, https://leetcode.com/problems/binary-tree-inorder-traversal
 * 2022-02-07 : https://leetcode.com/problems/pascals-triangle, https://leetcode.com/problems/best-time-to-buy-and-sell-stock, https://leetcode.com/problems/single-number, https://leetcode.com/problems/binary-tree-preorder-traversal, https://leetcode.com/problems/binary-tree-postorder-traversal, EPI in Java 5.12~5.20
 * 2022-02-08 : EPI in Java 6.0~6.8, https://leetcode.com/problems/min-stack
-* 2022-02-09 : EPI in Java 6.9~7.4, https://leetcode.com/problems/reverse-bits, https://leetcode.com/problems/remove-linked-list-elements
+* 2022-02-09 : EPI in Java 6.9~7.4, https://leetcode.com/problems/reverse-bits, https://leetcode.com/problems/remove-linked-list-elements, https://leetcode.com/problems/linked-list-cycle
