@@ -12,3 +12,4 @@
 * 2022-02-14: EPI in Java 10.0~10.6, https://leetcode.com/problems/backspace-string-compare, https://leetcode.com/problems/flipping-an-image, https://leetcode.com/problems/sort-array-by-parity, https://leetcode.com/problems/middle-of-the-linked-list, https://leetcode.com/problems/leaf-similar-trees
 * 2022-02-15 : EPI in Java 11.0~11.5, https://leetcode.com/problems/range-sum-of-bst, https://leetcode.com/problems/univalued-binary-tree
 * 2022-02-16 : EPI in Java 11.6~12.5, https://leetcode.com/problems/fibonacci-number
+* 2022-02-17 : EPI in Java 12.6~12.12
