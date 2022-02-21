@@ -15,4 +15,5 @@
 * 2022-02-17 : EPI in Java 12.6~12.12, https://leetcode.com/problems/find-the-town-judge, https://leetcode.com/problems/find-common-characters
 * 2022-02-18 : EPI in Java 13.0~13.5, https://leetcode.com/problems/two-sum-less-than-k, https://leetcode.com/problems/armstrong-number, https://leetcode.com/problems/largest-unique-number
 * 2022-02-19 : EPI in Java 13.6~13.12, https://leetcode.com/problems/single-row-keyboard, https://leetcode.com/problems/last-stone-weight, https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket
-* 2022-02-20: EPI in Java 14.0~14.4, https://leetcode.com/problems/missing-number-in-arithmetic-progression, https://leetcode.com/problems/relative-sort-array, https://leetcode.com/problems/n-th-tribonacci-number, MySQL 8.0 Reference Manual 3.0.0.0~3.3.4.7, 
+* 2022-02-20 : EPI in Java 14.0~14.4, https://leetcode.com/problems/missing-number-in-arithmetic-progression, https://leetcode.com/problems/relative-sort-array, https://leetcode.com/problems/n-th-tribonacci-number, MySQL 8.0 Reference Manual 3.0.0.0~3.3.4.7
+* 2022-02-21 : MySQL 8.0 Reference Manual 3.3.4.8~4.2.1
