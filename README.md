@@ -19,3 +19,5 @@
 * 2022-02-21 : MySQL 8.0 Reference Manual 3.3.4.8 to 4.2.1
 * 2022-02-22 : MySQL 8.0 Reference Manual 4.2.1 to 4.5.1.1
 * 2022-02-23 : MySQL 8.0 Reference Manual 4.5.1.2 to 4.6.10, https://leetcode.com/problems/rank-transform-of-an-array, https://leetcode.com/problems/maximum-number-of-words-you-can-type, EPI in Java 14.5~14.9, https://leetcode.com/problems/delete-characters-to-make-fancy-string, https://leetcode.com/problems/maximum-number-of-balloons, https://leetcode.com/problems/unique-number-of-occurrences, https://leetcode.com/problems/minimum-absolute-difference
+* 2022-02-24 : MySQL 8.0 Reference Manual 4.7 to 5.1.9.5
+* 2022-02-25 : MySQL 8.0 Reference Manual 5.1.10 to 5.1.17
