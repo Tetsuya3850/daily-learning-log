@@ -23,3 +23,5 @@
 * 2022-02-25 : MySQL 8.0 Reference Manual 5.1.10 to 5.1.17
 * 2022-02-26 : https://leetcode.com/problems/find-numbers-with-even-number-of-digits, https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer, https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero, https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits, MySQL 8.0 Reference Manual 5.1.18 to 5.4.3
 * 2022-02-27 : https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping, MySQL 8.0 Reference Manual 5.4.4 to 5.5.4
+* 2022-02-28 : MySQL 8.0 Reference Manual 5.6 to 5.9.1.7
+* 2022-03-01 : MySQL 8.0 Reference Manual 5.9.2 to 5.9.4
