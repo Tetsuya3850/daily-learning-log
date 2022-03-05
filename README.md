@@ -28,3 +28,4 @@
 * 2022-03-02 : MySQL 8.0 Reference Manual 6.1.3 to 6.2.10, https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix
 * 2022-03-03 : EPI in Java 14.10~15.0, MySQL 8.0 Reference Manual 6.2.11 to 6.2.17
 * 2022-03-04 : MySQL 8.0 Reference Manual 6.2.18 to 6.2.23
+* 2022-03-05 : https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number
