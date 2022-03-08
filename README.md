@@ -30,3 +30,6 @@
 * 2022-03-04 : MySQL 8.0 Reference Manual 6.2.18 to 6.2.23
 * 2022-03-05 : https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number, https://leetcode.com/problems/lucky-numbers-in-a-matrix, https://leetcode.com/problems/find-lucky-integer-in-an-array, https://leetcode.com/problems/consecutive-characters, https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence, https://leetcode.com/problems/shuffle-the-array, MySQL 8.0 Reference Manual 6.3 to 6.8
 * 2022-03-06 : MySQL 8.0 Reference Manual Chapter 7 and 9, https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop, https://leetcode.com/problems/running-sum-of-1d-array
+* 2022-03-07 : MySQL 8.0 Reference Manual Chapter 10
+* 2022-03-08 : MySQL 8.0 Reference Manual 11.0 ~ 11.2.5
+* 2022-03-09 : 
