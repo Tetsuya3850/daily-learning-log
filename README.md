@@ -32,4 +32,4 @@
 * 2022-03-06 : MySQL 8.0 Reference Manual Chapter 7 and 9, https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop, https://leetcode.com/problems/running-sum-of-1d-array
 * 2022-03-07 : MySQL 8.0 Reference Manual Chapter 10
 * 2022-03-08 : MySQL 8.0 Reference Manual 11.0 ~ 11.2.5
-* 2022-03-09 : 
+* 2022-03-09 : MySQL 8.0 Reference Manual 11.2.6 ~ 11.3.4
