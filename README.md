@@ -35,4 +35,4 @@
 * 2022-03-09 : MySQL 8.0 Reference Manual 11.2.6 ~ 11.3.4
 * 2022-03-10 : MySQL 8.0 Reference Manual 11.3.5 ~ 11.4.11
 * 2022-03-11 : MySQL 8.0 Reference Manual 11.5 ~ 13.1.2, https://leetcode.com/problems/path-crossing, https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence, https://leetcode.com/problems/number-of-good-pairs
-* 2022-03-12 : EPI in Java 15.1~15.7, https://leetcode.com/problems/kth-missing-positive-number, https://leetcode.com/problems/thousand-separator, https://leetcode.com/problems/matrix-diagonal-sum, https://leetcode.com/problems/crawler-log-folder, https://leetcode.com/problems/sort-array-by-increasing-frequency
+* 2022-03-12 : EPI in Java 15.1~15.7, https://leetcode.com/problems/kth-missing-positive-number, https://leetcode.com/problems/thousand-separator, https://leetcode.com/problems/matrix-diagonal-sum, https://leetcode.com/problems/crawler-log-folder, https://leetcode.com/problems/sort-array-by-increasing-frequency, https://leetcode.com/problems/count-the-number-of-consistent-strings
