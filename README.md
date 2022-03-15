@@ -38,3 +38,4 @@
 * 2022-03-12 : EPI in Java 15.1~15.7, https://leetcode.com/problems/kth-missing-positive-number, https://leetcode.com/problems/thousand-separator, https://leetcode.com/problems/matrix-diagonal-sum, https://leetcode.com/problems/crawler-log-folder, https://leetcode.com/problems/sort-array-by-increasing-frequency, https://leetcode.com/problems/count-the-number-of-consistent-strings, MySQL 8.0 Reference Manual 13.1.3 to 13.1.14
 * 2022-03-13 : MySQL 8.0 Reference Manual 13.1.15~13.2
 * 2022-03-14 : MySQL 8.0 Reference Manual 13.2.1~13.2.3
+* 2022-03-15 : MySQL 8.0 Reference Manual 13.2.4~13.2.6
