@@ -39,3 +39,5 @@
 * 2022-03-13 : MySQL 8.0 Reference Manual 13.1.15~13.2
 * 2022-03-14 : MySQL 8.0 Reference Manual 13.2.1~13.2.3
 * 2022-03-15 : MySQL 8.0 Reference Manual 13.2.4~13.2.6
+* 2022-03-16 : Hikari CP Readme 
+* 2022-03-17 : https://m.youtube.com/watch?v=_C77sBcAtSQ
