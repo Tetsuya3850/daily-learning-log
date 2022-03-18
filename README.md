@@ -41,4 +41,4 @@
 * 2022-03-15 : MySQL 8.0 Reference Manual 13.2.4~13.2.6
 * 2022-03-16 : Hikari CP Readme 
 * 2022-03-17 : https://m.youtube.com/watch?v=_C77sBcAtSQ
-* 2022-03-18 : https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing, https://github.com/brettwooldridge/HikariCP/wiki/Rapid-Recovery
+* 2022-03-18 : https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing, https://github.com/brettwooldridge/HikariCP/wiki/Rapid-Recovery, https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/java-dg-jvm-ttl.html
