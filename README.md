@@ -44,4 +44,4 @@
 * 2022-03-18 : https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing, https://github.com/brettwooldridge/HikariCP/wiki/Rapid-Recovery, https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/java-dg-jvm-ttl.html, https://github.com/brettwooldridge/HikariCP/wiki/MySQL-Configuration
 * 2022-03-19 : https://github.com/brettwooldridge/HikariCP/wiki/HikariCP-Articles, MySQL 8.0 Reference Manual 13.2.7~13.2.11.2
 * 2022-03-20 : MySQL 8.0 Reference Manual 13.2.11.3~13.6.7.1
-* 2022-03-21 : MySQL 8.0 Reference Manual 13.6.7.2~15.6.3.3, https://leetcode.com/problems/richest-customer-wealth, https://leetcode.com/problems/calculate-money-in-leetcode-bank, https://leetcode.com/problems/determine-if-string-halves-are-alike, https://leetcode.com/problems/maximum-units-on-a-truck
+* 2022-03-21 : MySQL 8.0 Reference Manual 13.6.7.2~15.6.3.3, https://leetcode.com/problems/richest-customer-wealth, https://leetcode.com/problems/calculate-money-in-leetcode-bank, https://leetcode.com/problems/determine-if-string-halves-are-alike, https://leetcode.com/problems/maximum-units-on-a-truck, https://leetcode.com/problems/sum-of-unique-elements
