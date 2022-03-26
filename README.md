@@ -49,3 +49,4 @@
 * 2022-03-23 : MySQL 8.0 Reference Manual 15.7~15.7.2.2
 * 2022-03-24 : MySQL 8.0 Reference Manual 15.7.2.3~15.7.3
 * 2022-03-25 : MySQL 8.0 Reference Manual 15.7.4~15.7.6
+* 2022-03-26 : MySQL 8.0 Reference Manual 15.8~15.8.9
