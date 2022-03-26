@@ -47,3 +47,5 @@
 * 2022-03-21 : MySQL 8.0 Reference Manual 13.6.7.2~15.6.3.3, https://leetcode.com/problems/richest-customer-wealth, https://leetcode.com/problems/calculate-money-in-leetcode-bank, https://leetcode.com/problems/determine-if-string-halves-are-alike, https://leetcode.com/problems/maximum-units-on-a-truck, https://leetcode.com/problems/sum-of-unique-elements, https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string, https://leetcode.com/problems/merge-strings-alternately, https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal, https://leetcode.com/problems/determine-color-of-a-chessboard-square
 * 2022-03-22 : MySQL 8.0 Reference Manual 15.6.3.4~15.6.6
 * 2022-03-23 : MySQL 8.0 Reference Manual 15.7~15.7.2.2
+* 2022-03-24 : MySQL 8.0 Reference Manual 15.7.2.3~15.7.3
+* 2022-03-25 : MySQL 8.0 Reference Manual 15.7.4~15.7.6
